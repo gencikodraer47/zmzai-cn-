@@ -242,7 +242,7 @@ That's 4 lines of code. You're live. 🚀
 | Link | Description |
 |------|-------------|
 | 🌐 **[zmzai.cn](https://zmzai.cn)** | Official website & model playground |
-| 📖 **[Docs](https://zmzai.cn/docs)** | Full API documentation |
+| 📖 **[Docs][(https://zmzai.cn/docs](https://zmzapi.apifox.cn/))** | Full API documentation |
 | 💰 **[Pricing](https://zmzai.cn/pricing)** | Transparent pricing for all 500+ models |
 | 📊 **[Dashboard](https://zmzai.cn/dashboard)** | Usage analytics & API management |
 | 📧 **Enterprise Inquiries** | enterprise@zmzai.cn |
